@@ -1,0 +1,2 @@
+# edbot
+Generic Bot platform 
